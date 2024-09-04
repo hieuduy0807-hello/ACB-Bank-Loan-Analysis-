@@ -2,15 +2,15 @@
 # Project Purpose:
 The purpose of this project was to analyze ACB Bank's loan data, providing insights into customer behavior, loan performance, and recovery rates. By visualizing key metrics, the dashboard helps stakeholders quickly understand the state of the loan portfolio and identify areas for improvement.
 # Business Requirements:
-    Implement improved procedures for verifying loan amounts to address the significant unverified portion.
-    Refine or expand debt consolidation loan products based on high demand.
-    Focus on managing and supporting lower-grade customers to prevent defaults.
+  Implement improved procedures for verifying loan amounts to address the significant unverified portion.
+  Refine or expand debt consolidation loan products based on high demand.
+  Focus on managing and supporting lower-grade customers to prevent defaults.
 # Stakeholders
-    Risk Management Team
-    Senior Manager
-    Marketing Department
-    Product Development Team
-    Customer Service Team
+   Risk Management Team
+   Senior Manager
+   Marketing Department
+   Product Development Team
+   Customer Service Team
 # Insights
   Verification Status by Amount: Over 53.92% of the loan amount has been verified, suggesting a strong adherence to verification protocols. However, a significant portion remains unverified, which may present risks.
   Loan Purpose Distribution: Debt consolidation dominates at 50.27%, indicating a trend where customers are primarily seeking to manage existing debt rather than new investments or purchases.
