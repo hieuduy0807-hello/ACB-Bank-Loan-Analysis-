@@ -7,9 +7,13 @@ The purpose of this project was to analyze ACB Bank's loan data, providing insig
   Focus on managing and supporting lower-grade customers to prevent defaults.
 # Stakeholders
    Risk Management Team
+   
    Senior Manager
+   
    Marketing Department
+   
    Product Development Team
+   
    Customer Service Team
 # Insights
   Verification Status by Amount: Over 53.92% of the loan amount has been verified, suggesting a strong adherence to verification protocols. However, a significant portion remains unverified, which may present risks.
