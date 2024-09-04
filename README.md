@@ -21,10 +21,13 @@ The purpose of this project was to analyze ACB Bank's loan data, providing insig
    Customer Service Team
 
 # Insights
+  <img width="1114" alt="Screenshot 2024-09-04 at 2 07 55 pm" src="https://github.com/user-attachments/assets/c743055e-6d9f-47a8-aeb9-04241a26993a">
+  
   Verification Status by Amount: Over 53.92% of the loan amount has been verified, suggesting a strong adherence to verification protocols. However, a significant portion remains unverified, which may present risks.
   
   Loan Purpose Distribution: Debt consolidation dominates at 50.27%, indicating a trend where customers are primarily seeking to manage existing debt rather than new investments or purchases.
   
+
   Customers by Homeownership: A larger portion of customers (50%) are renting rather than owning homes, which might correlate with the high demand for debt consolidation loans.
   
   Year-wise Loan and Recovery Trends: There's a peak in loan disbursements and recovery around the early 2000s, followed by a decline. This could indicate economic shifts or changing bank policies.
